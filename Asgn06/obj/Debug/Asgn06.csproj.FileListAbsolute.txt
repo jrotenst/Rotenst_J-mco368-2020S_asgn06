@@ -1,0 +1,7 @@
+C:\Users\yrote\source\repos\Asgn06\Asgn06\bin\Debug\Asgn06.exe.config
+C:\Users\yrote\source\repos\Asgn06\Asgn06\bin\Debug\Asgn06.exe
+C:\Users\yrote\source\repos\Asgn06\Asgn06\bin\Debug\Asgn06.pdb
+C:\Users\yrote\source\repos\Asgn06\Asgn06\obj\Debug\Asgn06.csprojAssemblyReference.cache
+C:\Users\yrote\source\repos\Asgn06\Asgn06\obj\Debug\Asgn06.csproj.CoreCompileInputs.cache
+C:\Users\yrote\source\repos\Asgn06\Asgn06\obj\Debug\Asgn06.exe
+C:\Users\yrote\source\repos\Asgn06\Asgn06\obj\Debug\Asgn06.pdb
